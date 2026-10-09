@@ -12,4 +12,4 @@ npx expo install react-dom react-native-web
 npx expo export --platform web
 ```
 
-## O direct do site gerado está na pasta `/dist`, em função do arquivo `index.html`
+## O direct do site gerado está na pasta `/docs` fora da raiz de `/portifolio-react`, em função do arquivo `index.html`
