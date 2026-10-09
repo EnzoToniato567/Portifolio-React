@@ -35,6 +35,7 @@
       ]
     ],
     "experiments": {
+      "baseUrl": "/Portifolio-React",
       "typedRoutes": true,
       "reactCompiler": true
     }
